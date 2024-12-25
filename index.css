@@ -1,0 +1,53 @@
+/* Write your code here. */
+body {
+  margin: 0px;
+  box-sizing: border-box;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 30px;
+  text-align: center;
+}https://github.com/ManideepDevisetty/cd-1B.git
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png');
+  height: 100vh;
+  background-size: cover;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inner-container {
+  background-color: #cffafe;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  width: 60vw;
+  padding: 10px;
+}
+.inner-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+  margin: 6px;
+}
+
+.inner-paragraph {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+}
+.img {
+  height: 20vh;
+  width: 20vw;
+}
